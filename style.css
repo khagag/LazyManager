@@ -4,3 +4,6 @@ body{
     border-radius: 25%;
 }
 
+ul{
+    list-style-type: none;
+}
